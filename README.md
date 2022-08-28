@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @misganaa
 - 👀 I’m interested in data science/analytics
-- 🌱 I’m currently learning R programming
-- 💞️ I’m looking to collaborate on a project which I will commnece soon
+- 🌱 I’m currently learning R and python programming
+- 💞️ I’m open to collaborate on open source projects
 - 📫 How to reach me ...
 
 <!---
